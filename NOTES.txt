@@ -1,0 +1,7 @@
+Last Update
+
+1. Added database for attendance system
+2. Created functions and views for punching in and out.
+
+PENDING
+1. Add Note column in attendance table.
